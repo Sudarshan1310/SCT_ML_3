@@ -49,7 +49,7 @@ This project implements a **Support Vector Machine (SVM)** to classify images of
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/svm-cat-dog-classifier.git
+git clone https://github.com/Sudarshan1310/SCT_ML_3.git
 cd svm-cat-dog-classifier
 
 ### 2. Install dependecies
