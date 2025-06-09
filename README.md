@@ -73,13 +73,13 @@ joblib.dump(clf, 'svm_cat_dog.pkl')
 
 ### 📁 Folder Structure
 
-svm-cat-dog-classifier/
+```svm-cat-dog-classifier/
 ├── SVM_Cat_Dog_Classifier.ipynb
 ├── requirements.txt
 ├── README.md
 └── data/
     ├── cat/
-    └── dog/
+    └── dog/```
 
 ### 📌 Notes
 This project is for educational/demo purposes and uses a relatively small dataset.
