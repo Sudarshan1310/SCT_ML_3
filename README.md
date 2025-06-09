@@ -79,7 +79,8 @@ joblib.dump(clf, 'svm_cat_dog.pkl')
 ├── README.md
 └── data/
     ├── cat/
-    └── dog/```
+    └── dog/
+```
 
 ### 📌 Notes
 This project is for educational/demo purposes and uses a relatively small dataset.
